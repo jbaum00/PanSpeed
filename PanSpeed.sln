@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanSpeed", "PanSpeed\PanSpeed.csproj", "{C00EEE4E-D905-40A1-AA6A-EB2358EA1EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00EEE4E-D905-40A1-AA6A-EB2358EA1EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00EEE4E-D905-40A1-AA6A-EB2358EA1EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00EEE4E-D905-40A1-AA6A-EB2358EA1EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00EEE4E-D905-40A1-AA6A-EB2358EA1EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7625C0-8BDE-40CD-916F-6C14A265C94D}
+	EndGlobalSection
+EndGlobal

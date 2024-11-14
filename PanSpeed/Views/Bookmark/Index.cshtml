@@ -1,0 +1,13 @@
+﻿
+<div class="bookmark-grid">
+    @foreach (var bookmark in Model)
+    {
+        <div class="bookmark-item">
+            <h3>@bookmark.Title</h3>
+            <a href="@bookmark.Url">@bookmark.Url</a>
+            <p>@bookmark.Category</p>
+        </div>
+    }
+</div>
+
+
